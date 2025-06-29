@@ -53,6 +53,3 @@ Contains game logic:
 - Updates DOM elements dynamically
 - Uses a `player` object to track name and chips
 
-## License
-
-MIT License — feel free to use, modify, and share.
